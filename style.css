@@ -1,0 +1,51 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("Capture_decran_2021-12-07_143836.png");
+    background-size: cover;
+}
+.input{
+    border-radius: 3px;
+    padding: 5px 111px 5px 18px;
+    margin: 10px 7px 0px 80px;
+}
+select {
+    border-radius: 3px;
+    padding: 3px 99px 0px 0px;
+    margin: 13px 28px 4px 80px;
+}
+#date{
+padding-right: 133px;
+color: #A0A79D;
+}
+#typexd{
+    margin-left: 85px;
+    color: white;
+}
+#btn1{
+    margin-left: 288px;
+    color: white;
+    background-color: #808080;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+.divone{
+    margin-left: 350px;
+    margin-top: 50px;
+}
+::placeholder{
+    color: #A0A79D;
+}
+#langue{
+    color: #A0A79D;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+table{
+    margin-left: 290px;
+    background-color: rgba(255, 255, 255, 0.384);
+    border-radius: 4px;
+}
